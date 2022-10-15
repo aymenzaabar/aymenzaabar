@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer, and soon a Software Engineer !!
 
-- 🔭 I'm looking for an end-of-study project internship fomr January 2022
+- 🔭 I'm looking for an end-of-study project internship from January 2023
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software engineers 
 - 🥅 2022 Goals: Contribute more to Open Source projects
